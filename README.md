@@ -25,3 +25,10 @@ This is logical configuration diagram
 │ html page │───│ django server |───| python youtube player |
 └───────────┘   └───────────────┘   └───────────────────────┘
 ```
+
+# Description
+The project consists of three small modules. Modules are these.
+* django_server
+* html_page
+* python_youtube_player
+Please cheak each readme file.
