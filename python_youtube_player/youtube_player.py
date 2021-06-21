@@ -5,7 +5,7 @@ import threading
 import requests
 import time
 
-server_url = "http://10.186.115.241:8000/youtube-remote-player/1/"
+server_url = "http://172.30.1.48:8000/youtube-remote-player/1/"
 
 class RequestData:
     def __init__(self, json_data):
