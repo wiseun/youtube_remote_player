@@ -1,5 +1,5 @@
 # python_youtube_player
-This player is for playing youtube
+This player is for playing youtube.
 
 # Install
 Please install python package using this command.
